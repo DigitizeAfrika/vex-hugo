@@ -1,4 +1,4 @@
-baseurl = "http://www.digitizeafrika.netlify.com"
+baseurl = "https://www.digitizeafrika.netlify.com"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
