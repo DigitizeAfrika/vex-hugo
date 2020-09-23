@@ -21,15 +21,15 @@ URL = "/"
 name = "Home"
 weight = 1
 [[menu.main]]
-URL = "products"
+URL = "/"
 name = "Products"
 weight = 2
 [[menu.main]]
-URL = "blog"
+URL = "/"
 name = "Blog"
 weight = 3
 [[menu.main]]
-URL = "contact"
+URL = "/"
 name = "Contact"
 weight = 4
 [params]
