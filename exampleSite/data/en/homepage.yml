@@ -1,17 +1,17 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Believe in Technology, Make the change"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  title : "It is time to Digitize Afrika!"
+  content : "Our mission is to enable African businesses and organizations to embrace digital technologies as a foundation for scalability and growth"
   image : "images/watch.png"
   button:
    enable : true
-   label : "Browse All Products"
+   label : "Check out our products and services"
    link : "products"
 
 ############################# Feature ############################
 features:
-  enable : true
+  enable : false
   title : "Our Core Features"
   image : "images/watch-2.png"
 
@@ -53,7 +53,7 @@ features:
 
 ############################# promo ############################
 promo:
-  enable : true
+  enable : false
   image : "images/watch.png"
   title : "Designed by professional , the benefit for creative gigs"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
@@ -64,7 +64,7 @@ promo:
 
 ############################# About Product #######################
 about_product:
-  enable : true
+  enable : false
   title : "Why Choose Apple Watch"
   items:
     # about product item loop
@@ -92,13 +92,13 @@ about_product:
 
 #################################### Products ########################
 products:
-  enable : true
+  enable : false
   title : "Checkout Our All Products"
 
 
 ################################## Subscription ###################
 subscription:
-  enable : true
+  enable : false
   bg_image : "images/call-to-action.jpg"
   title : "Get Product Updates"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
@@ -108,22 +108,22 @@ subscription:
 ############################## Testimonial ##########################
 testimonial:
   enable : true
-  title : "Watch Review"
+  title : "Word from our customers"
   testimonial_item:
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "Bertha Tobias"
+      designation : "Founder, Bertha Tobias"
+      image : "images/bertha.jpg"
+      content : "It was a pleasure to work with Digitize Afrika to get my brand online"
       
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "Ndakondja Uusiku"
+      designation : "Founder, Purposeful Camp Namibia"
+      image : "images/ndakondja.jpg"
+      content : "Digitize Afrika enabled us to create an online presence without breaking our pockets"
       
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "Sam SHIVUTE"
+      designation : "Founder, #BeUNLIMITED Book Club"
+      image : "images/sam.jpg"
+      content : "I am honored to be associated with Digitize Afrika, I believe it is the epitome of being UNLIMITED"
