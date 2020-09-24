@@ -113,17 +113,20 @@ testimonial:
     # testimonial item loop
     - name : "Bertha Tobias"
       designation : "Founder, Bertha Tobias"
-      image : "images/bertha.jpg"
+      image : "images/berthatobias.jpg"
       content : "It was a pleasure to work with Digitize Afrika to get my brand online"
       
+    # testimonial item loop
+    - name : "Sam SHIVUTE"
+      designation : "Founder, #BeUNLIMITED Book Club"
+      image : "images/SamShivute.jpg"
+      content : "I am honored to be associated with Digitize Afrika, I believe it is the epitome of being UNLIMITED"
+
+
     # testimonial item loop
     - name : "Ndakondja Uusiku"
       designation : "Founder, Purposeful Camp Namibia"
       image : "images/ndakondja.jpg"
       content : "Digitize Afrika enabled us to create an online presence without breaking our pockets"
       
-    # testimonial item loop
-    - name : "Sam SHIVUTE"
-      designation : "Founder, #BeUNLIMITED Book Club"
-      image : "images/sam.jpg"
-      content : "I am honored to be associated with Digitize Afrika, I believe it is the epitome of being UNLIMITED"
+    
